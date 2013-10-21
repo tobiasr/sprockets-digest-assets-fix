@@ -12,7 +12,7 @@ How do I install it?
 Just put it in your Gemfile
 
 ```ruby
-gem "non-stupid-digest-assets"
+gem "sprockets-digest-assets-fix"
 ```
 
 But shouldn't I always use the Rails asset helpers anyway?

@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name        = "non-stupid-digest-assets"
+  s.name        = "sprockets-digest-assets-fix"
   s.version     = "1.0.0"
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Alex Speller"]
@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
     non-digest assets which are useful for many reasons. See this issue for more details:
     https://github.com/rails/sprockets-rails/issues/49
   DESCRIPTION
-  s.files         = %w(lib/non-stupid-digest-assets.rb LICENSE README.md)
+  s.files         = %w(lib/sprockets-digest-assets-fix.rb LICENSE README.md)
   s.license       = 'MIT'
   s.require_path  = 'lib'
 end
